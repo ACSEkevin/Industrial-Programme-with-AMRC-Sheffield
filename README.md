@@ -5,7 +5,7 @@ Please note that the dataset has been removed from `data` directory, remember to
 The models in the project are developed using Keras/TensorFlow (MLP) and Scikit-Learn (AdaBoost, XGBoost, LightGBM, same API), any questions please refer to 
   1. <https://keras.io/guides/>  
   2. <https://www.tensorflow.org/>
-  3. <https://scikit-learn.org/stable/>
+  3. <[https://scikit-learn.org/stable/](https://scikit-learn.org/stable/modules/ensemble.html#)>
   4. <https://numpy.org/doc/stable/user/quickstart.html>
 
 ## Author pages<p>
