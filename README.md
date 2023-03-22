@@ -3,10 +3,10 @@
 
 Please note that the dataset has been removed from `data/` directory in case of dataset leakage, remember to add the dataset in this directory and modify the data path in `data_processing.py` before running the code<p>
 
-To clone the code:
+To clone the project:
 
 ```
-aidfhosf
+git clone https://github.com/ACSEkevin/Industrial-Programme-with-AMRC-Sheffield.git
 ```
 
 ## Directory Description<p>
