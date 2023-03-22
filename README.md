@@ -1,6 +1,6 @@
 # Industrial-Programme-with-AMRC-Sheffield
 ITP Additive Manufacturing (Process Monitoring) MA3<p>
-Please note that the dataset has been removed from the directory <data>, remember to add the dataset in this directory after cloing the code<p>
+Please note that the dataset has been removed from `data` directory, remember to add the dataset in this directory and modify the data path in  `data_processing.py` before running the code<p>
 
 The models in the project are developed using Keras/TensorFlow (MLP) and Scikit-Learn (AdaBoost, XGBoost, LightGBM, same API), any questions please refer to 
   1. <https://keras.io/guides/>  
