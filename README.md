@@ -7,6 +7,8 @@ The models in the project are developed using Keras/TensorFlow (MLP) and Scikit-
   2. <https://www.tensorflow.org/>
   3. <https://scikit-learn.org/stable/modules/ensemble.html>
   4. <https://numpy.org/doc/stable/user/quickstart.html>
+  5. <https://xgboost.readthedocs.io/en/stable/python/python_api.html>
+  6. <https://lightgbm.readthedocs.io/en/latest/pythonapi/lightgbm.LGBMClassifier.html>
 
 ## Author pages<p>
 The project has six contributors. All the page links will be refined in the future<p>
