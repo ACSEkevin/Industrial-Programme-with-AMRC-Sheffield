@@ -1,5 +1,6 @@
 # Industrial-Training-Programme-with-AMRC-Sheffield
 ### ITP Additive Manufacturing (Process Monitoring) MA3<p>
+
 Please note that the dataset has been removed from `data/` directory in case of dataset leakage, remember to add the dataset in this directory and modify the data path in `data_processing.py` before running the code<p>
 The models in the project are developed using Keras/TensorFlow (MLP) and Scikit-Learn (AdaBoost, XGBoost, LightGBM, same API), any questions please refer to 
   * [Keras tutorial: build a model in class object](<https://keras.io/guides/making_new_layers_and_models_via_subclassing/>)
@@ -21,6 +22,11 @@ The models in the project are developed using Keras/TensorFlow (MLP) and Scikit-
 `train.py`: model training<br>
 `evaluate.py`: model evaluation<br>
 `requirements.py`: for version test and available packages detecting
+ 
+ The notebook version of data processing, model training and evalutaion are also provided:<br>
+[![processing](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/drive/folders/1G7gxOcOtIoJGKqRuNbjmADUNN9pJbf8U)
+[![train](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/13YQa9RBM95bxBGivlZyJrVsuRGVVFoqm)
+[![evaluate](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1e3V0FFxW_jyptdssxj3_SzVZzLV6t_Ps)
 
 ## Author pages<p>
 The project has six contributors. All the page links will be refined in the future<p>
