@@ -28,7 +28,7 @@ The notebook version of data processing, model training and evalutaion are also 
 [![evaluate](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1e3V0FFxW_jyptdssxj3_SzVZzLV6t_Ps)
  
 <b>NOTICE:</b>
- Please change the directory before run the code, in colab, this command might be helpful:<br>
+ Please change the directory before running the code, in colab, this command might be helpful:<br>
  
 ```python
 from google.colab import drive
