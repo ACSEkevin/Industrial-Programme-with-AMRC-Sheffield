@@ -36,7 +36,7 @@ drive.mount('/content/drive')
 ```
 
  
-## Tutorials<p>
+## Official Handbooks<p>
 The models in the project are developed using Keras/TensorFlow (MLP) and Scikit-Learn (AdaBoost, XGBoost, LightGBM, same API), any questions please refer to 
   * [Keras tutorial: build a model in class object](<https://keras.io/guides/making_new_layers_and_models_via_subclassing/>)
   * [TensorFlow tutorial: model save checkpoint, weights saving and loading](<https://www.tensorflow.org/tutorials/keras/save_and_load?hl=zh-cn>)
