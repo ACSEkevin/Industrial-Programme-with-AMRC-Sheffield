@@ -2,8 +2,12 @@
 ITP Additive Manufacturing (Process Monitoring) MA3<p>
 Please note that the dataset has been removed from the directory <data>, remember to add the dataset in this directory after cloing the code<p>
 
-The models in the project are developed using Keras/TensorFlow (MLP) and Scikit-Learn (AdaBoost, XGBoost, LightGBM, same API), any questions please refer to <https://keras.io/guides/>, <https://www.tensorflow.org/>, <https://scikit-learn.org/stable/>, <https://numpy.org/>
+The models in the project are developed using Keras/TensorFlow (MLP) and Scikit-Learn (AdaBoost, XGBoost, LightGBM, same API), any questions please refer to 
+  1. <https://keras.io/guides/>  
+  2. <https://www.tensorflow.org/>
+  3. <https://scikit-learn.org/stable/>
+  4. <https://numpy.org/>
 
 ## Author pages<p>
-There are six contributors of the project. The pages will be refined in the future<br>
-@ACSEKevin <https://github.com/ACSEkevin/Industrial-Programme-with-AMRC-Sheffield>
+The project has six contributors. All the page links will be refined in the future<p>
+#### @ACSEKevin <https://github.com/ACSEkevin><br>
