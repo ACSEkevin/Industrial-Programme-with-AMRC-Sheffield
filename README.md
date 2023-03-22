@@ -27,6 +27,16 @@ The notebook version of data processing, model training and evalutaion are also 
 [![train](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/13YQa9RBM95bxBGivlZyJrVsuRGVVFoqm)
 [![evaluate](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1e3V0FFxW_jyptdssxj3_SzVZzLV6t_Ps)
  
+<b>NOTICE:</b>
+ Please change the directory before run the code, in colab, this command will help with that:<br>
+ 
+ 
+```python
+from google.colab import drive
+drive.mount('/content/drive') 
+```
+
+ 
 ## Tutorials<p>
 The models in the project are developed using Keras/TensorFlow (MLP) and Scikit-Learn (AdaBoost, XGBoost, LightGBM, same API), any questions please refer to 
   * [Keras tutorial: build a model in class object](<https://keras.io/guides/making_new_layers_and_models_via_subclassing/>)
