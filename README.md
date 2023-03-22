@@ -22,14 +22,13 @@ git clone https://github.com/ACSEkevin/Industrial-Programme-with-AMRC-Sheffield.
 `evaluate.py`: model evaluation<br>
 `requirements.py`: for version test and available packages detecting
  
-The notebook version of data processing, model training and evalutaion are also provided:<br>
+The notebook version of data processing, model training and evalutaion are also provided which can resent a clear overall visualizations:<br>
 [![processing](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1EbNVMcqn_QE8-m6F6W2hEqNMnQkGYBR6)
 [![train](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/13YQa9RBM95bxBGivlZyJrVsuRGVVFoqm)
 [![evaluate](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1e3V0FFxW_jyptdssxj3_SzVZzLV6t_Ps)
  
 <b>NOTICE:</b>
- Please change the directory before run the code, in colab, this command will help with that:<br>
- 
+ Please change the directory before run the code, in colab, this command might be helpful:<br>
  
 ```python
 from google.colab import drive
