@@ -3,6 +3,12 @@
 
 Please note that the dataset has been removed from `data/` directory in case of dataset leakage, remember to add the dataset in this directory and modify the data path in `data_processing.py` before running the code<p>
 
+To clone the code:
+
+```
+aidfhosf
+```
+
 ## Directory Description<p>
 ### ITP_MA3_ProcessMonitoring/<p>
 <b>`checkpoint/`</b>: storing weightsHDF5 file<br>
