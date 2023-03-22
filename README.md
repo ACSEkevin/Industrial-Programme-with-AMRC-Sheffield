@@ -1,7 +1,7 @@
 # Industrial-Training-Programme-with-AMRC-Sheffield
 ### ITP Additive Manufacturing (Process Monitoring) MA3<p>
 
-Please note that the dataset has been removed from `data/` directory in case of dataset leakage, remember to add the dataset in this directory and modify the data path in `data_processing.py` before running the code<p>
+Please note that the dataset has been removed from <b>`data/`</b> directory in case of dataset leakage, remember to add the dataset in this directory and modify the data path in `data_processing.py` before running the code<p>
 
 To clone the project:
 
