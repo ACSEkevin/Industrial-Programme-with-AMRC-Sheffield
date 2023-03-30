@@ -48,4 +48,4 @@ The models in the project are developed using Keras/TensorFlow (MLP) and Scikit-
 
 ## Author pages<p>
 The project has six contributors. All the page links will be refined in the future<p>
-#### [@ACSEKevin](<https://github.com/ACSEkevin>) [@Winnie Ma](<https://github.com/Wenj17>) [@Shuwen Liu](<https://github.com/Midi-chlorians9>)
+[@ACSEKevin](<https://github.com/ACSEkevin>)  [@Winnie Ma](<https://github.com/Wenj17>)  [@Shuwen Liu](<https://github.com/Midi-chlorians9>)
